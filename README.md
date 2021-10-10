@@ -4,8 +4,8 @@ Course Code: CS 201
 National Institute of Technology, Silchar
 
 Submitted by-
-Nikita Roy
-2012128
+Anik Das
+2012168
 CSE Sec-B
 
 Questions:
